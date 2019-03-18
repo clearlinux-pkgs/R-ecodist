@@ -4,7 +4,7 @@
 #
 Name     : R-ecodist
 Version  : 2.0.1
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/ecodist_2.0.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ecodist_2.0.1.tar.gz
 Summary  : Dissimilarity-Based Functions for Ecological Analysis
@@ -32,10 +32,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552807085
+export SOURCE_DATE_EPOCH=1552920228
 
 %install
-export SOURCE_DATE_EPOCH=1552807085
+export SOURCE_DATE_EPOCH=1552920228
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
