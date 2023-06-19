@@ -4,7 +4,7 @@
 #
 Name     : R-ecodist
 Version  : 2.0.9
-Release  : 43
+Release  : 44
 URL      : https://cran.r-project.org/src/contrib/ecodist_2.0.9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ecodist_2.0.9.tar.gz
 Summary  : Dissimilarity-Based Functions for Ecological Analysis
